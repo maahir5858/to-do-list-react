@@ -14,7 +14,6 @@ The application is built using React’s component-based architecture and hooks,
 
 ## 🌟 Features
 
-- ⏱️ **Real-Time Clock** – Updates every second
 - ⚛️ **React Hooks Implementation**
 - 🧩 **Component-Based Architecture**
 
@@ -27,7 +26,7 @@ https://github.com/user-attachments/assets/d9c58411-f7d3-4421-afa3-37a60119bd50
 To run this project locally:
 
 ```bash
-$ git clone https://github.com/maahir5858/digital-clock-react.git
-$ cd ../react-digital-clock
+$ git clone https://github.com/maahir5858/to-do-list-react.git
+$ cd ../to-do-list
 $ npm install / yarn
 $ npm start / yarn start
